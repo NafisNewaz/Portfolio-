@@ -70,7 +70,7 @@ border-image-slice: 2;
 
 #side-color-2{
     border-left: 10px solid ;
-    border-image: linear-gradient(lightsalmon,tomato);
+    border-image: linear-gradient(darkblue,lightblue);
     border-image-slice: 2;
     }
 
